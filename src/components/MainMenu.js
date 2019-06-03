@@ -5,7 +5,7 @@ import SiteInfo from './SiteInfo';
 
 const MainMenuWrapper = styled.div`
   display: flex;
-  background-color: rgb(3, 27, 77);
+  background-color: yellow;
 `
 
 const MainMenuInner = styled.div`
@@ -56,3 +56,4 @@ const MainMenu = () => (
 );
 
 export default MainMenu;
+
