@@ -27,7 +27,7 @@ const MainMenu = () => (
     {
       allWordpressWpApiMenusMenusItems(filter: {
         name: {
-          eq: "Main menu"
+          eq: "main"
         }
       }){
         edges{
